@@ -1,0 +1,16 @@
+	- Drank tea and talked about the lariat
+	- Portal chalk
+	- Plan to check out 
+	- Apollo got skulked
+	- Smashed a globe of ling
+	- 6hd, regenerates after death, can command and sense through nearby tree life 
+	- 2
+	- Beat troll, stuck in time loop
+	- Met sir clanfell, he's cold but not hostile, angsty
+	- Ring telescope
+	- XP bonus Nyx, XP Slim
+	- Met lady of broken branches 
+	- Apollo got mark removed, didn't join court, found out about birthdays
+	- Rdh joined court, right upper arm, got magic, slim joined court left lower arm
+	- Uhm joined , silver across stomach
+	- Nyx joined, left side of face
