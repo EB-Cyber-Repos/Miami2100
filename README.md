@@ -1,16 +1,15 @@
 ![UVG](UVGCropped.jpg)
 
-# UVG.RPG.Wiki
+# Miami 2100
 
 Your one-stop spot for all your imaginary friends, and the things trying to kill them...
 
-[World of Dungeons rulebook](world_of_dungeons_1979_bw.pdf)
+[The FATE system reference document](https://fate-srd.com/)
 
 # Navigation
 - [Main](README.md)
-- [Notable Characters](NotableCharacters.md)
-- [Notable Objects](NotableObjects.md)
-- [Organizations](Organizations.md)
-- [Places](Places.md)
-- [Players](Players.md)
-- [Species](Species.md)
+- [The Players](Players.md)
+- [The City](NotableCharacters.md)
+- [The Gigs](NotableObjects.md)
+- [???](README.md)
+
