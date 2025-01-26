@@ -1,3 +1,0 @@
-**DOOMSDAY CLOCK:** D12
-
-
