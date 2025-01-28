@@ -5,6 +5,7 @@
 
 **CONCEPT:** ExCorpo Solo
 **TROUBLE:** Has a score to settle
+
 **ASPECTS** 
 - ???
 - ???

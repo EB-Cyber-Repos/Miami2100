@@ -1,5 +1,6 @@
 # Rules of Engagement
 [You can find the comprehensive rules of the FATE system here](https://fate-srd.com/)
+
 ## Skills
 If you want to survive, you're gonna have to learn on the job.
 - Academics

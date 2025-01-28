@@ -9,6 +9,7 @@ The megalopolis of Miami was born out of the ashes of Old Florida and tempered i
 - **2080s** The European Union dissolves, marking the end of the last geopolitical superpower. Though governments still exist, megacorporations are now the most powerful actors on the world stage.
 - **2090s** Peace is declared and the Global Corporate War ends. The Global Corporate Agreement Council is formed to maintain peace and mediate corporate disagreements.
 - **2100s** Some idiot lancer rolls out of bed in the morning and decides that today's the day that they are finally gonna catch their lucky break (spoiler alert, you're the idiot).
+
 ## The Arkham District
 Arkham district sits on the northernmost tip of Miami, right on the bleeding edge of the Hot Zone. There are a lot of ways to get chewed up and spit out that close to The Red. A lot of ways that a clever, tough, or lucky lancer could get paid, too.
 - [Downtown](../ComingSoon.md)
