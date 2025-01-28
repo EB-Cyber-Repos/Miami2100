@@ -12,10 +12,10 @@
 - ???
 
 **SKILLS**
-+4: Brawl
-+3: Agility, Engineering
-+2: Drive, ESP, Medicine
-+1: Deception, Melee, Security, Stealth
+- +4: Brawl
+- +3: Agility, Engineering
+- +2: Drive, ESP, Medicine
+- +1: Deception, Melee, Security, Stealth
 
 **STUNTS**
 - ???

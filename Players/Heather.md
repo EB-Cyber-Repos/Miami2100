@@ -12,10 +12,10 @@
 - ???
 
 **SKILLS**
-+4: Security
-+3: Occult, Strength
-+2: Academics, Agility, Persuasion
-+1: Deception, Drive, IT, Performance
+- +4: Security
+- +3: Occult, Strength
+- +2: Academics, Agility, Persuasion
+- +1: Deception, Drive, IT, Performance
 
 **STUNTS**
 - ???

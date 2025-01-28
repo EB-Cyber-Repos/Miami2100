@@ -12,10 +12,10 @@
 - ???
 
 **SKILLS**
-+4: Aim
-+3: Security, Strength
-+2: Brawl, Medicine, Stealth
-+1: Academics, Deception, Melee, Performance
+- +4: Aim
+- +3: Security, Strength
+- +2: Brawl, Medicine, Stealth
+- +1: Academics, Deception, Melee, Performance
 
 **STUNTS**
 - ???

@@ -12,10 +12,10 @@
 - ???
 
 **SKILLS**
-+4: Persuasion
-+3: Deception, Academics
-+2: Brawl, Perception, Security
-+1: Melee, Occult, Performance, Strength
+- +4: Persuasion
+- +3: Deception, Academics
+- +2: Brawl, Perception, Security
+- +1: Melee, Occult, Performance, Strength
 
 **STUNTS**
 - ???

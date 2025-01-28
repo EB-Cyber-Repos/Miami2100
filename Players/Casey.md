@@ -12,10 +12,10 @@
 - ???
 
 **SKILLS**
-+4: ESP
-+3: Persuasion, Occult
-+2: Aim, Deception, Medicine
-+1: Agility, Drive, Engineering, Performance
+- +4: ESP
+- +3: Persuasion, Occult
+- +2: Aim, Deception, Medicine
+- +1: Agility, Drive, Engineering, Performance
 
 **STUNTS**
 - ???
