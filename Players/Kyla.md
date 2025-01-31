@@ -1,5 +1,5 @@
 **NAME:** ???
-**BITZ:** ???
+**BITZ:** 0
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -18,7 +18,9 @@
 - +1: Melee, Occult, Performance, Strength
 
 **STUNTS**
-- ???
+- Whenever you deal social damage, increase it by 1.
+- You get +2 to perception when investigating leads, looking for evidence, or interviewing.
+- You get +2 to aim rolls when you have time to call your shot.
 
 **EXTRAS**
 - ???

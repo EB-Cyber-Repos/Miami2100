@@ -1,5 +1,5 @@
 **NAME:** ???
-**BITZ:** ???
+**BITZ:** 0
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -18,7 +18,9 @@
 - +1: Deception, Melee, Security, Stealth
 
 **STUNTS**
-- ???
+- The first time you reach 0 stress in a session, reset stress to 6.
+- Once a session, you can spend a Fate point for a lucky distraction that draws the attention of people nearby for a few moments.
+- Once a session, you can produce a hidden disposable lockpick or security shim from a hidden location on your person.
 
 **EXTRAS**
 - ???

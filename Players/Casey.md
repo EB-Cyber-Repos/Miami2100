@@ -1,5 +1,5 @@
 **NAME:** ???
-**BITZ:** ???
+**BITZ:** 0
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -18,7 +18,9 @@
 - +1: Agility, Drive, Engineering, Performance
 
 **STUNTS**
-- ???
+- Once a session, you can spend a Fate point to know a relevant contact.
+- You get +2 to persuasion when haggling a financial deal.
+- Once a session, you can spend a Fate point to create an advantage through your knowledge of relevant trivia.
 
 **EXTRAS**
 - ???

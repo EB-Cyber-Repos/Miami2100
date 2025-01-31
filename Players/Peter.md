@@ -1,5 +1,5 @@
 **NAME:** ???
-**BITZ:** ???
+**BITZ:** 0
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -18,7 +18,9 @@
 - +1: Academics, Deception, Melee, Performance
 
 **STUNTS**
-- ???
+- Whenever deal physical damage, increase it by 1.
+- You can spend a fate point to attack 2 enemies with a single attack roll.
+- You get +2 to rolls about knowledge of MegaCorps and their culture.
 
 **EXTRAS**
 - ???
