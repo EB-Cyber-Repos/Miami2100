@@ -23,3 +23,5 @@ Your one stop shop for anything a lancer may need
 - Arm - 4,000b 
 - Leg - 4,000b
 - Cyber Deck - 2,000b
+
+**[Main Menu](../../README.md)**
