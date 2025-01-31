@@ -4,4 +4,4 @@ It's dirty work, but somebody has got to do it.
 
  **[Don't forget to buy any gear you need](marketplace.md)**
 
- **[Main Menu](../../README.md)**
+ **[Main Menu](../README.md)**
