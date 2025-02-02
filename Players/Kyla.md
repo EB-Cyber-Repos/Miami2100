@@ -1,5 +1,5 @@
-**NAME:** ???
-**BITZ:** 0
+**NAME:** Jojo
+**BITZ:** -650b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -7,9 +7,9 @@
 **TROUBLE:** Can't trust their senses
 
 **ASPECTS** 
-- ???
-- ???
-- ???
+- I used to work for the House of Mouse
+- I do it for the dollars
+- The Corpos deserve what they get
 
 **SKILLS**
 - +4: Persuasion
@@ -23,7 +23,10 @@
 - You get +2 to aim rolls when you have time to call your shot.
 
 **EXTRAS**
-- ???
+- Katana
+- Kevlar Vest
+- Scramble Grenade
+- MedKit
 
 **NOTES**
 - ???

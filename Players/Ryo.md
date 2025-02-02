@@ -1,5 +1,5 @@
-**NAME:** ???
-**BITZ:** 0
+**NAME:** Savika
+**BITZ:** -5,800b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -7,9 +7,9 @@
 **TROUBLE:** Will do anything for their family
 
 **ASPECTS** 
-- ???
-- ???
-- ???
+- Left Cyborg Arm
+- I like the finer things
+- The only person you can rely on is yourself
 
 **SKILLS**
 - +4: Brawl
@@ -23,7 +23,9 @@
 - Once a session, you can produce a hidden disposable lockpick or security shim from a hidden location on your person.
 
 **EXTRAS**
-- ???
+- Assault Rifle
+- Kevlar Vest
+- MedKit
 
 **NOTES**
 - ???

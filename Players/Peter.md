@@ -1,5 +1,5 @@
-**NAME:** ???
-**BITZ:** 0
+**NAME:** Brick
+**BITZ:** -4,400b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -7,9 +7,9 @@
 **TROUBLE:** Has a score to settle
 
 **ASPECTS** 
-- ???
-- ???
-- ???
+- Had a taste of the good life
+- I take out the trash
+- Cyber Heart
 
 **SKILLS**
 - +4: Aim
@@ -23,7 +23,10 @@
 - You get +2 to rolls about knowledge of MegaCorps and their culture.
 
 **EXTRAS**
-- ???
+- Rifle
+- Kevlar Vest
+- Medkit
+- Flash Bang (x2)
 
 **NOTES**
 - ???

@@ -1,5 +1,5 @@
-**NAME:** ???
-**BITZ:** 0
+**NAME:** Canuck
+**BITZ:** -5,250b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -7,9 +7,9 @@
 **TROUBLE:** Can't remember what they lost
 
 **ASPECTS** 
-- ???
-- ???
-- ???
+- Cyber Deck Implant
+- Auditory Cyber Implant
+- Canadian Refugee
 
 **SKILLS**
 - +4: ESP
@@ -23,7 +23,8 @@
 - Once a session, you can spend a Fate point to create an advantage through your knowledge of relevant trivia.
 
 **EXTRAS**
-- ???
+- Shotgun
+- Kevlar Vest
 
 **NOTES**
 - ???

@@ -1,5 +1,5 @@
-**NAME:** ???
-**BITZ:** 0
+**NAME:** Bubbles
+**BITZ:** -950b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -7,9 +7,9 @@
 **TROUBLE:** Is being hunted
 
 **ASPECTS** 
-- ???
-- ???
-- ???
+- The Corpos killed my parents
+- Sticks their nose into everyone's business
+- I've been hurt before
 
 **SKILLS**
 - +4: Security
@@ -23,7 +23,9 @@
 - Once a session, you can spend a fate point to create an advantage against a specific person by profiling their public data.
 
 **EXTRAS**
-- ???
+- Pistol
+- Kevlar Vest
+- MedKit (x3)
 
 **NOTES**
 - ???
