@@ -1,5 +1,5 @@
 # Miami 2100
-![Welcome](Welcome.jpeg)
+![Welcome](assets/Welcome.jpeg)
 
 Half a billion chromed-out souls all chasing the same bag. Get a gig, get paid, and get out while you're still ~~in the black.~~ ~~free.~~ ~~human?~~ alive.
 - [Freelancers](Players/Players.md)
