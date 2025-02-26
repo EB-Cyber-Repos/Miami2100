@@ -23,11 +23,10 @@
 - Once a session, you can spend a fate point to create an advantage against a specific person by profiling their public data.
 
 **EXTRAS**
-- Pistol
 - Kevlar Vest
 - MedKit (x3)
 
 **NOTES**
-- ???
+- Muscle mommy Jessica Rabbit
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

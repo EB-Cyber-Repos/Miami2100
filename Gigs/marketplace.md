@@ -1,8 +1,15 @@
 # Marketplace
 Your one stop shop for anything a lancer may need
+
+## Black Market Deals
+This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
+- Sensory Organ - 2,000b 
+- Arm - 4,000b 
+- Leg - 4,000b
+
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
-- Pistols - 500b - (Swords, Hammers, Bats) 
+- Handguns - 500b - (Pistol, Revolver) 
 - Long Guns - 1,000b - (Sniper Rifles, Shotguns)
 - Combat Guns - 1,500b - (Assault Rifles, Submachine Guns)
 - Heavy Guns - 2,000b - (Machine Guns, Bazookas)
@@ -24,4 +31,4 @@ Your one stop shop for anything a lancer may need
 - Leg - 4,000b
 - Cyber Deck - 2,000b
 
-**[Main Menu](../README.md)**
+**[Main Menu](README.md)**
