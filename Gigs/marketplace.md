@@ -3,9 +3,9 @@ Your one stop shop for anything a lancer may need
 
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
-- Sensory Organ - 2,000b 
-- Arm - 4,000b 
-- Leg - 4,000b
+- Hulk Juice - 500b 
+- Rail Gun - 15,000b
+- Grappling Gun - 2,000b
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
