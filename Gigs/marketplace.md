@@ -31,4 +31,4 @@ This is the exclusive merchandise, rare items here for a limited time. Once some
 - Leg - 4,000b
 - Cyber Deck - 2,000b
 
-**[Main Menu](README.md)**
+**[Main Menu](../README.md)**

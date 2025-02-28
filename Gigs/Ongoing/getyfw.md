@@ -6,4 +6,4 @@ A client has reached and out and requested the removal of a disruptive neighbour
 
 Masks are all about celebrity, so the client thinks that flatlining Neptune will cause the whole thing to fall apart in a week or two. Killing Neptune isn't a must-do though, apparently the client isn't picky as long as he's out of the neighbourhood.
 
-**[Main Menu](README.md)**
+**[Main Menu](../../README.md)**

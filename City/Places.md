@@ -1,5 +1,5 @@
 # The Arkham District
-![Welcome](Arkham.jpeg)
+![Welcome](../assets/images/Arkham.jpeg)
 
 The Arkham district sits on the northernmost tip of Miami, right on the bleeding edge of the Hot Zone. There are a lot of ways to get chewed up and spit out that close to The Red. A lot of ways that a clever, tough, or lucky lancer could get paid, too.
 
@@ -10,6 +10,7 @@ The Arkham district sits on the northernmost tip of Miami, right on the bleeding
 - **The Ports** The shipyards are a mix of corporate shipping and receiving, criminal smugglers, and 
 - **The Underground** The tunnels beneath Miami are a mix of subways, sewers, utility lines and homeless cities, all in various levels of maintenance and abandonment. I hope your tetanus shot is up-to-date.
 - **The Yards** The industrial yards are the factories, laboratories, datacentres, and power plants where the blue-collar workers of the dystopian future make their living. Mutants and homeless make homes in the cracks between commercial properties, doing their best to avoid detection from the corporate thugs handling facility security.
+	
 	[Atlantis](../Gigs/Ongoing/getyfw.md)
 
- **[Main Menu](README.md)**
+ **[Main Menu](../README.md)**
