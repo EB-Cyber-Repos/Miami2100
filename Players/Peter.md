@@ -24,7 +24,6 @@
 
 **EXTRAS**
 - Rail Gun
-- Shotgun
 - Kevlar Vest
 - Medkit
 - Flash Bang (x2)

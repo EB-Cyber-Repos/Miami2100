@@ -1,5 +1,5 @@
 **NAME:** Bubbles
-**BITZ:** 3,050b
+**BITZ:** 1,350b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -25,6 +25,8 @@
 **EXTRAS**
 - Kevlar Vest (Hello Kitty)
 - MedKit (x3)
+- Vibro-Sword
+- Scramble Grenade (x2)
 
 **NOTES**
 - Muscle mommy Jessica Rabbit

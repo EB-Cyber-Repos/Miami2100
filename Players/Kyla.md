@@ -1,5 +1,5 @@
 **NAME:** Jojo
-**BITZ:** 5,350b
+**BITZ:** 4,850b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -27,7 +27,7 @@
 - Kevlar Vest ("If you shoot me, you're GAY!")
 - Scramble Grenade (x2)
 - MedKit
-- Sledgehammer
+- Bozo Holo-Drone
 
 **NOTES**
 - ???

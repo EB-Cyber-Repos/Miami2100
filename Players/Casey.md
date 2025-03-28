@@ -1,5 +1,5 @@
 **NAME:** Canuck
-**BITZ:** -150b
+**BITZ:** -5,150b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -9,7 +9,7 @@
 **ASPECTS** 
 - Cyber Deck Implant
 - Auditory Cyber Implant
-- Canadian Refugee
+- Nervous System Stimulant Implant
 
 **SKILLS**
 - +4: ESP
@@ -26,6 +26,8 @@
 - Kevlar Vest (Oilers logo, under a denim duster)
 - Medkit 
 - Hulk Juice
+- Shotgun
+- Sledgehammer
 
 **NOTES**
 - ???

@@ -4,8 +4,6 @@ Your one stop shop for anything a lancer may need
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
 - Grappling Gun - 2,000b
-- Vibro-Sword - 1,500b
-- Bozo Holo-Drone - 500b
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
