@@ -1,5 +1,5 @@
 **NAME:** Bubbles
-**BITZ:** -950b
+**BITZ:** 3,050b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -9,13 +9,13 @@
 **ASPECTS** 
 - The Corpos killed my parents
 - Sticks their nose into everyone's business
-- I've been hurt before
+- Cyber Deck
 
 **SKILLS**
-- +4: Security
-- +3: Occult, Strength
-- +2: Academics, Agility, Persuasion
-- +1: Deception, Drive, IT, Performance
+- +4: IT
+- +3: Deception, Security
+- +2: Occult, Strength, Drive
+- +1: Persuasion, Agility, Academics, Performance
 
 **STUNTS**
 - +2 to Persuasion when talking to anyone who's not actively hostile.
@@ -23,10 +23,10 @@
 - Once a session, you can spend a fate point to create an advantage against a specific person by profiling their public data.
 
 **EXTRAS**
-- Kevlar Vest
+- Kevlar Vest (Hello Kitty)
 - MedKit (x3)
 
 **NOTES**
 - Muscle mommy Jessica Rabbit
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

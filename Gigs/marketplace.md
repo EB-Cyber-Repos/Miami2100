@@ -3,9 +3,9 @@ Your one stop shop for anything a lancer may need
 
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
-- Hulk Juice - 500b 
-- Rail Gun - 15,000b
 - Grappling Gun - 2,000b
+- Vibro-Sword - 1,500b
+- Bozo Holo-Drone - 500b
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
@@ -22,7 +22,7 @@ This is the exclusive merchandise, rare items here for a limited time. Once some
 - MedKit - 50b 
 - Flash Bang - 50b
 - Frag Grenade - 100b
-- Scramble Grenades - 100b
+- Scramble Grenade - 100b
 - C9 Bomb - 300b
 
 ## Cyberware
@@ -31,4 +31,4 @@ This is the exclusive merchandise, rare items here for a limited time. Once some
 - Leg - 4,000b
 - Cyber Deck - 2,000b
 
-**[Main Menu](../README.md)**
+**[Main Menu](README.md)**

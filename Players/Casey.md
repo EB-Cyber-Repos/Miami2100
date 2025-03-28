@@ -1,5 +1,5 @@
 **NAME:** Canuck
-**BITZ:** -5,250b
+**BITZ:** -150b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -23,10 +23,11 @@
 - Once a session, you can spend a Fate point to create an advantage through your knowledge of relevant trivia.
 
 **EXTRAS**
-- Shotgun
-- Kevlar Vest
+- Kevlar Vest (Oilers logo, under a denim duster)
+- Medkit 
+- Hulk Juice
 
 **NOTES**
 - ???
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

@@ -1,5 +1,5 @@
 **NAME:** Savika
-**BITZ:** -5,800b
+**BITZ:** 200b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -26,8 +26,9 @@
 - Assault Rifle
 - Kevlar Vest
 - MedKit
+- Stem-Stim
 
 **NOTES**
 - ???
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

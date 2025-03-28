@@ -1,4 +1,4 @@
 # Coming Soon
-![Welcome](assets/images/comingSoon.jpeg)
+![Welcome](comingSoon.jpeg)
 
  **[Main Menu](README.md)**

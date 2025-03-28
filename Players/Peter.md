@@ -1,5 +1,5 @@
 **NAME:** Brick
-**BITZ:** -4,400b
+**BITZ:** -13,400b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -23,12 +23,16 @@
 - You get +2 to rolls about knowledge of MegaCorps and their culture.
 
 **EXTRAS**
-- Rifle
+- Rail Gun
+- Shotgun
 - Kevlar Vest
 - Medkit
 - Flash Bang (x2)
 
+**Stash**
+- Rifle
+
 **NOTES**
 - ???
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

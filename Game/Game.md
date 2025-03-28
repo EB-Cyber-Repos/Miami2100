@@ -46,4 +46,4 @@ at the end of every session, you can do any 2 of the below activities:
 - Purchase a new Aspect by taking -1 Refresh
 - Buy any gear you need from the Marketplace
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**
