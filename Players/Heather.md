@@ -29,6 +29,7 @@
 - Scramble Grenade (x2)
 
 **NOTES**
-- Muscle mommy Jessica Rabbit
+- Muscle mommy Jessica Rabbit.
+- Disney's legal department has been trying to serve Bubbles.
 
  **[Main Menu](../README.md)**

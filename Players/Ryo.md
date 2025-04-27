@@ -29,6 +29,6 @@
 - Stem-Stim
 
 **NOTES**
-- ???
+- Has to help their mother Eve get rid of a corpse (again).
 
  **[Main Menu](../README.md)**

@@ -25,11 +25,11 @@
 **EXTRAS**
 - Katana
 - Kevlar Vest ("If you shoot me, you're GAY!")
-- Scramble Grenade (x2)
+- Scramble Grenade 
 - MedKit
 - Bozo Holo-Drone
 
 **NOTES**
-- ???
+- Has been investigating Benevolence Corp with limited success.
 
  **[Main Menu](../README.md)**

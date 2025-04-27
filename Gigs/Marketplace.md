@@ -1,9 +1,14 @@
 # Marketplace
 Your one stop shop for anything a lancer may need
 
+![[a1kzqYo.jpeg]]
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
 - Grappling Gun - 2,000b
+- NoNoise Grenade - 500b
+- Thermite Putty - 500b
+- Remote Bazooka - 5,000b
+- SIghtShare Shades  - 7,500b
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
