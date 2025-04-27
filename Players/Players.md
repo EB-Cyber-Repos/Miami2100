@@ -17,6 +17,6 @@ The street-level mercenaries of the 2100's, doing all the dirty work that the co
 - [Peter](Peter.md)
 - [Ryo](Ryo.md)
 
-![[Pd1Ny1h.jpeg]]
+![Welcome](../assets/images/Pd1Ny1h.jpeg)
 
  **[Main Menu](../README.md)**

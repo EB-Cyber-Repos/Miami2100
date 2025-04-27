@@ -1,7 +1,7 @@
 # Marketplace
 Your one stop shop for anything a lancer may need
 
-![[a1kzqYo.jpeg]]
+![Welcome](../assets/images/a1kzqYo.jpeg)
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
 - Grappling Gun - 2,000b
