@@ -36,4 +36,4 @@
 **NOTES**
 - Has been investigating sightings of the "Purple Man" digital cryptid.
 
- **[Main Menu](README.md)**
+ **[Main Menu](../README.md)**
