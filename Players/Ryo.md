@@ -1,5 +1,5 @@
 **NAME:** Savika
-**BITZ:** 11,700b
+**BITZ:** 9,700b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -27,6 +27,7 @@
 - Combat Armor (4)
 - MedKit
 - Stem-Stim
+- Bazooka
 
 **STASH**
 - Kevlar Vest (2)

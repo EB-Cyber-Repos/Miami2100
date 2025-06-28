@@ -1,5 +1,5 @@
 **NAME:** Bubbles
-**BITZ:** 15,350b
+**BITZ:** 14,150b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -28,6 +28,8 @@
 - Vibro-Sword
 - Scramble Grenade 
 - Machine Gun
+- PortKey 
+- Throwing Knives
 
 **NOTES**
 - Muscle mommy Jessica Rabbit.

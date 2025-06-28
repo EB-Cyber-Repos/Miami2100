@@ -1,5 +1,5 @@
 **NAME:** Jojo
-**BITZ:** 15,250b
+**BITZ:** 10,750b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -29,6 +29,7 @@
 - MedKit
 - Bozo Holo-Drone
 - Thermite Putty
+- Plasma Rifle 
 
 **NOTES**
 - Has been investigating Benevolence Corp with limited success.

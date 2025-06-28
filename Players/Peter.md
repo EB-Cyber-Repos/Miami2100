@@ -1,5 +1,5 @@
 **NAME:** Brick
-**BITZ:** 2,100b
+**BITZ:** -5,400b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -27,6 +27,7 @@
 - Kevlar Vest
 - Medkit
 - Flash Bang (x2)
+- SIghtShare Shades 
 
 **Stash**
 - Rifle

@@ -1,5 +1,5 @@
 **NAME:** Canuck
-**BITZ:** 8,300b
+**BITZ:** 7,450b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -29,6 +29,11 @@
 - Sledgehammer
 - Combat Armor
 - Grappling Gun 
+- DNA Bomb 
+- Flash Bang 
+- Frag Grenade
+- Scramble Grenade 
+- C9 Bomb 
 
 **Stash**
 - Kevlar Vest (Oilers logo, under a denim duster)

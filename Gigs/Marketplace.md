@@ -4,11 +4,7 @@ Your one stop shop for anything a lancer may need
 ![Welcome](Games/Miami%202100/Website/assets/images/a1kzqYo.jpeg)
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
-- SIghtShare Shades  - 7,500b
-- DNA Bomb - 300b
-- Plasma Rifle - 4,500b
 - ZeroPoint Energy Buckler - 5,000b
-- PortKey - 1,000b
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
