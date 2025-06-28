@@ -1,5 +1,5 @@
 **NAME:** Brick
-**BITZ:** -13,400b
+**BITZ:** 2,100b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -34,4 +34,4 @@
 **NOTES**
 - Is hellbent on hunting down the world's biggest MuskRat.
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

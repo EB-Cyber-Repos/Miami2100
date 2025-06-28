@@ -1,5 +1,5 @@
 **NAME:** Canuck
-**BITZ:** -5,150b
+**BITZ:** 8,300b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -23,13 +23,17 @@
 - Once a session, you can spend a Fate point to create an advantage through your knowledge of relevant trivia.
 
 **EXTRAS**
-- Kevlar Vest (Oilers logo, under a denim duster)
-- Medkit 
+- Medkit (x2)
 - Hulk Juice
 - Shotgun
 - Sledgehammer
+- Combat Armor
+- Grappling Gun 
+
+**Stash**
+- Kevlar Vest (Oilers logo, under a denim duster)
 
 **NOTES**
 - Has been investigating sightings of the "Purple Man" digital cryptid.
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

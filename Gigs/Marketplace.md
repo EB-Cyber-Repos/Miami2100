@@ -1,14 +1,14 @@
 # Marketplace
 Your one stop shop for anything a lancer may need
 
-![Welcome](../assets/images/a1kzqYo.jpeg)
+![Welcome](Games/Miami%202100/Website/assets/images/a1kzqYo.jpeg)
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
-- Grappling Gun - 2,000b
-- NoNoise Grenade - 500b
-- Thermite Putty - 500b
-- Remote Bazooka - 5,000b
 - SIghtShare Shades  - 7,500b
+- DNA Bomb - 300b
+- Plasma Rifle - 4,500b
+- ZeroPoint Energy Buckler - 5,000b
+- PortKey - 1,000b
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
@@ -34,4 +34,4 @@ This is the exclusive merchandise, rare items here for a limited time. Once some
 - Leg - 4,000b
 - Cyber Deck - 2,000b
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

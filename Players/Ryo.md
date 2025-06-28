@@ -1,5 +1,5 @@
 **NAME:** Savika
-**BITZ:** 200b
+**BITZ:** 11,700b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -7,7 +7,7 @@
 **TROUBLE:** Will do anything for their family
 
 **ASPECTS** 
-- Left Cyborg Arm
+- Cyborg Arms
 - I like the finer things
 - The only person you can rely on is yourself
 
@@ -24,11 +24,14 @@
 
 **EXTRAS**
 - Assault Rifle
-- Kevlar Vest
+- Combat Armor (4)
 - MedKit
 - Stem-Stim
 
-**NOTES**
-- Has to help their mother Eve get rid of a corpse (again).
+**STASH**
+- Kevlar Vest (2)
 
- **[Main Menu](../README.md)**
+**NOTES**
+- Had to help their mother Eve get rid of a corpse (again).
+
+ **[Main Menu](README.md)**

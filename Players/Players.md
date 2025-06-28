@@ -17,6 +17,6 @@ The street-level mercenaries of the 2100's, doing all the dirty work that the co
 - [Peter](Peter.md)
 - [Ryo](Ryo.md)
 
-![Welcome](../assets/images/Pd1Ny1h.jpeg)
+![Welcome](Games/Miami%202100/Website/assets/images/Pd1Ny1h.jpeg)
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

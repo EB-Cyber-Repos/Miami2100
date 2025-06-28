@@ -1,5 +1,5 @@
 **NAME:** Bubbles
-**BITZ:** 1,350b
+**BITZ:** 15,350b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -26,10 +26,11 @@
 - Kevlar Vest (Hello Kitty)
 - MedKit (x3)
 - Vibro-Sword
-- Scramble Grenade (x2)
+- Scramble Grenade 
+- Machine Gun
 
 **NOTES**
 - Muscle mommy Jessica Rabbit.
 - Disney's legal department has been trying to serve Bubbles.
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

@@ -1,5 +1,5 @@
 **NAME:** Jojo
-**BITZ:** 4,850b
+**BITZ:** 15,250b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -28,8 +28,9 @@
 - Scramble Grenade 
 - MedKit
 - Bozo Holo-Drone
+- Thermite Putty
 
 **NOTES**
 - Has been investigating Benevolence Corp with limited success.
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

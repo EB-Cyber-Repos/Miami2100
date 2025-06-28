@@ -1,13 +1,13 @@
 # Miami 2100
-![Welcome](assets/images/Welcome.jpeg)
+![Welcome](Welcome.jpeg)
 
 Half a billion chromed-out souls all chasing the same bag. Get a gig, get paid, and get out while you're still ~~in the black.~~ ~~free.~~ ~~human?~~ alive.
-- [Freelancers](Players/Players.md)
-- [Gigs](Gigs/Gigs.md)
-- [The Market](Gigs/Marketplace.md)
-- [Rules of Engagement](Game/Game.md)
-- [Faces of Miami](City/Faces.md)
-- [Places of Miami](City/Places.md)
+- [Freelancers](Players.md)
+- [Gigs](Gigs.md)
+- [The Market](Marketplace.md)
+- [Rules of Engagement](Games/Miami%202100/Website/Game/Game.md)
+- [Faces of Arkham](Faces.md)
+- [Places of Miami](Places.md)
 
 # Welcome to Miami 2100
 The megalopolis of Miami was born out of the ashes of Old Florida and tempered in the calamities and international corporate war that marked the 21st century. Now it's the worlds premiere spot to get rich or die trying.
