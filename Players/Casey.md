@@ -1,5 +1,5 @@
 **NAME:** Canuck
-**BITZ:** 7,450b
+**BITZ:** 7,436b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -25,6 +25,8 @@
 **EXTRAS**
 - Medkit (x2)
 - Hulk Juice
+- Timothy's Salad
+- 12 Pack Beer
 - Shotgun
 - Kevlar Vest (Oilers logo, under a denim duster)
 - Grappling Gun 
