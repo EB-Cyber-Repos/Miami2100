@@ -23,21 +23,22 @@
 - Once a session, you can spend a Fate point to create an advantage through your knowledge of relevant trivia.
 
 **EXTRAS**
-- Medkit (x2)
+- Medkit 
 - Hulk Juice
 - Timothy's Salad
 - 12 Pack Beer
 - Shotgun
 - Kevlar Vest (Oilers logo, under a denim duster)
 - Grappling Gun 
-
-**Stash**
-- DNA Bomb 
 - Flash Bang 
 - Frag Grenade
 - Scramble Grenade 
 - C9 Bomb 
 - Sledgehammer
+
+**Stash**
+- DNA Bomb 
+- Medkit 
 
 **NOTES**
 - Has been investigating sightings of the "Purple Man" digital cryptid.
