@@ -1,5 +1,5 @@
 **NAME:** Bubbles
-**BITZ:** 14,150b
+**BITZ:** 9,150b
 **REFRESH:** 3
 **STRESS:** 6
 
