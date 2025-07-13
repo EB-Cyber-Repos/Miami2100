@@ -30,6 +30,7 @@
 - Machine Gun
 - PortKey 
 - Throwing Knives
+- ZeroPoint Energy Buckler 
 
 **NOTES**
 - Muscle mommy Jessica Rabbit.

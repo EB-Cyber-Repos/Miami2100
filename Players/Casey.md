@@ -28,10 +28,8 @@
 - Shotgun
 - Kevlar Vest (Oilers logo, under a denim duster)
 - Grappling Gun 
-- ZeroPoint Energy Buckler 
 
 **Stash**
-- Kevlar Vest (Oilers logo, under a denim duster)
 - DNA Bomb 
 - Flash Bang 
 - Frag Grenade
