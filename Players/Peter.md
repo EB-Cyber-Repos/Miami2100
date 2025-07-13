@@ -1,5 +1,5 @@
 **NAME:** Brick
-**BITZ:** -5,400b
+**BITZ:** -6,400b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -28,6 +28,7 @@
 - Medkit
 - Flash Bang (x2)
 - SIghtShare Shades 
+- Suppressed Pistol
 
 **Stash**
 - Rifle

@@ -14,8 +14,8 @@
 **SKILLS**
 - +4: IT
 - +3: Deception, Security
-- +2: Occult, Strength, Drive
-- +1: Persuasion, Agility, Academics, Performance
+- +2: Occult, Performance, Drive
+- +1: Persuasion, Aim, Academics, Strength
 
 **STUNTS**
 - +2 to Persuasion when talking to anyone who's not actively hostile.

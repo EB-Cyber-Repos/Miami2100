@@ -26,17 +26,17 @@
 - Medkit (x2)
 - Hulk Juice
 - Shotgun
-- Sledgehammer
-- Combat Armor
+- Kevlar Vest (Oilers logo, under a denim duster)
 - Grappling Gun 
+
+**Stash**
+- Kevlar Vest (Oilers logo, under a denim duster)
 - DNA Bomb 
 - Flash Bang 
 - Frag Grenade
 - Scramble Grenade 
 - C9 Bomb 
-
-**Stash**
-- Kevlar Vest (Oilers logo, under a denim duster)
+- Sledgehammer
 
 **NOTES**
 - Has been investigating sightings of the "Purple Man" digital cryptid.

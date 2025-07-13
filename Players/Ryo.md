@@ -24,13 +24,13 @@
 
 **EXTRAS**
 - Assault Rifle
-- Combat Armor (4)
 - MedKit
 - Stem-Stim
 - Bazooka
+- Kevlar Vest (2)
 
 **STASH**
-- Kevlar Vest (2)
+- Combat Armor (4)
 
 **NOTES**
 - Had to help their mother Eve get rid of a corpse (again).
