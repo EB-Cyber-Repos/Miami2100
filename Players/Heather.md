@@ -13,8 +13,8 @@
 
 **SKILLS**
 - +4: IT
-- +3: Deception, Security
-- +2: Occult, Performance, Drive
+- +3: Deception, Performance
+- +2: Occult, Security, Drive
 - +1: Persuasion, Aim, Academics, Strength
 
 **STUNTS**

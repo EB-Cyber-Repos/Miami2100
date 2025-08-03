@@ -28,7 +28,6 @@
 - Scramble Grenade 
 - MedKit
 - Bozo Holo-Drone
-- Thermite Putty
 - Plasma Rifle 
 
 **NOTES**

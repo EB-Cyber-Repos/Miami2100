@@ -1,7 +1,7 @@
 **NAME:** Canuck
 **BITZ:** 7,436b
 **REFRESH:** 3
-**STRESS:** 6
+**STRESS:** 5
 
 **CONCEPT:** Fixer with a Big Brain
 **TROUBLE:** Can't remember what they lost
@@ -24,9 +24,8 @@
 
 **EXTRAS**
 - Medkit 
-- Hulk Juice
 - Timothy's Salad
-- 12 Pack Beer
+- (Half of a) 12 Pack Beer
 - Shotgun
 - Kevlar Vest (Oilers logo, under a denim duster)
 - Grappling Gun 
