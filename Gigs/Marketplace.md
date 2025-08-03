@@ -9,6 +9,7 @@ This is the exclusive merchandise, rare items here for a limited time. Once some
 - Predator Ring - 12,000b - A twist of the ring, and you disappear like the extraterrestrial antagonist of a 1980's action vid. It's not quite invisible, but it's pretty fucking close.
 - H.I.V.E. - 2,000b - A swarm of AI-controlled nanites in a conveniently grenade-sized package. Just give them verbal instructions and let'r rip.
 - Amber Alert - 2,000b - This grenade is actually an all-bands alarm system for every government and corpo frequency within radius. If you ever wanted to send out the batsignal for every uniform for several miles, this would be the way to do it.
+
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
 - Handguns - 500b - (Pistol, Revolver) 
