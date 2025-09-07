@@ -1,7 +1,7 @@
 # Rules of Engagement
 [You can find the comprehensive rules of the FATE system here](https://fate-srd.com/)
 
-![Welcome](GM/Miami%202100/Website/assets/images/Z74Fl8D.jpeg)
+![Welcome](../assets/images/Z74Fl8D.jpeg)
 ## When Do I Roll These Dice?
 When you roll your dice when your trying to do any one of these things:
 - **Attack** When you are in a confrontation and you are trying to cause harm to an opponent. Confrontations include conflicts that are physical, social, digital, and psychic.
@@ -47,4 +47,4 @@ at the end of every session, you can do any 2 of the below activities:
 - Purchase a new Aspect by taking -1 Refresh
 - Buy any gear you need from the Marketplace
 
- **[Main Menu](README.md)**
+ **[Main Menu](../README.md)**
