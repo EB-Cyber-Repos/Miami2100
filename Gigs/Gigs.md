@@ -1,6 +1,8 @@
 # Available Gigs
 It's dirty work, but somebody has got to do it. 
 
+![Welcome](../assets/images/lyUOLnm.jpeg)
+ 
  **[Don't forget to buy any gear you need](Marketplace.md)**
  
 ## 3 cheers for animal rights!
