@@ -4,9 +4,6 @@ Your one stop shop for anything a lancer may need
 ![Welcome](../assets/images/a1kzqYo.jpeg)
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
-- Neuralyzer Shot - 500b - The ultimate roofie. Inject this into someone and they'll pass out for around 8 hours, and have very fuzzy recollection on the 8 hours before their power nap.
-- Batvision Goggles - 2,000b - Googles that provide echolation-based vision for all of your Daredevil larping needs.
-- Rust Spray - 1,00b - A pepper spray canister that fires a stream of oxidizing acid, melts any metal it touches. Keep it away from your borg parts.
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 

@@ -1,5 +1,5 @@
 **NAME:** Savika
-**BITZ:** 7,700b
+**BITZ:** 5,700b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -29,6 +29,7 @@
 - Bazooka
 - Kevlar Vest (2)
 - H.I.V.E - A swarm of AI-controlled nanites in a conveniently grenade-sized package. Just give them verbal instructions and let'r rip.
+- Batvision Goggles - Googles that provide echolation-based vision for all of your Daredevil larping needs.
 
 **STASH**
 - Combat Armor (4)

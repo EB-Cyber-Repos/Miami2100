@@ -1,5 +1,5 @@
 **NAME:** Bubbles
-**BITZ:** 1,150b
+**BITZ:** 650b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -32,6 +32,7 @@
 - Throwing Knives
 - ZeroPoint Energy Buckler 
 -  Magic 8-Ball - No matter where, no matter when. You can always give the 8-Ball a shack and get some honest advice. Just don't come asking for refund when it gives you bad news.
+- Neuralyzer Shot - The ultimate roofie. Inject this into someone and they'll pass out for around 8 hours, and have very fuzzy recollection on the 8 hours before their power nap.
 
 **NOTES**
 - Muscle mommy Jessica Rabbit.

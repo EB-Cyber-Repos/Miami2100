@@ -1,5 +1,5 @@
 **NAME:** Jojo
-**BITZ:** 8,750b
+**BITZ:** 7,750b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -30,6 +30,7 @@
 - Bozo Holo-Drone
 - Plasma Rifle 
 - Amber Alert - This grenade is actually an all-bands alarm system for every government and corpo frequency within radius. If you ever wanted to send out the batsignal for every uniform for several miles, this would be the way to do it.
+- Rust Spray - A pepper spray canister that fires a stream of oxidizing acid, melts any metal it touches. Keep it away from your borg parts.
 
 **NOTES**
 - Has been investigating Benevolence Corp with limited success.
