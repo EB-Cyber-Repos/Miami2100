@@ -1,5 +1,5 @@
 **NAME:** Savika
-**BITZ:** 9,700b
+**BITZ:** 7,700b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -20,7 +20,7 @@
 **STUNTS**
 - The first time you reach 0 stress in a session, reset stress to 6.
 - Once a session, you can spend a Fate point for a lucky distraction that draws the attention of people nearby for a few moments.
-- Once a session, you can produce a hidden disposable lockpick or security shim from a hidden location on your person.
+- You can spend a Fate point, to deploy knuckle and elbow vibro-blades. 
 
 **EXTRAS**
 - Assault Rifle
@@ -28,6 +28,7 @@
 - Stem-Stim
 - Bazooka
 - Kevlar Vest (2)
+- H.I.V.E - A swarm of AI-controlled nanites in a conveniently grenade-sized package. Just give them verbal instructions and let'r rip.
 
 **STASH**
 - Combat Armor (4)
@@ -35,4 +36,4 @@
 **NOTES**
 - Had to help their mother Eve get rid of a corpse (again).
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

@@ -1,5 +1,5 @@
 **NAME:** Canuck
-**BITZ:** 7,436b
+**BITZ:** -2,564b
 **REFRESH:** 3
 **STRESS:** 5
 
@@ -33,13 +33,15 @@
 - Frag Grenade
 - Scramble Grenade 
 - C9 Bomb 
-- Sledgehammer
+- PlasmaSaber - The legally distinct Lightsaber, for all your slicing and dicing needs. Robes optional.
 
 **Stash**
 - DNA Bomb 
 - Medkit 
+- Sledgehammer
+
 
 **NOTES**
 - Has been investigating sightings of the "Purple Man" digital cryptid.
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

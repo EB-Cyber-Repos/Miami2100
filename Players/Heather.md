@@ -1,5 +1,5 @@
 **NAME:** Bubbles
-**BITZ:** 9,150b
+**BITZ:** 1,150b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -31,9 +31,10 @@
 - PortKey 
 - Throwing Knives
 - ZeroPoint Energy Buckler 
+-  Magic 8-Ball - No matter where, no matter when. You can always give the 8-Ball a shack and get some honest advice. Just don't come asking for refund when it gives you bad news.
 
 **NOTES**
 - Muscle mommy Jessica Rabbit.
 - Disney's legal department has been trying to serve Bubbles.
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

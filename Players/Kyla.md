@@ -1,5 +1,5 @@
 **NAME:** Jojo
-**BITZ:** 10,750b
+**BITZ:** 8,750b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -29,8 +29,9 @@
 - MedKit
 - Bozo Holo-Drone
 - Plasma Rifle 
+- Amber Alert - This grenade is actually an all-bands alarm system for every government and corpo frequency within radius. If you ever wanted to send out the batsignal for every uniform for several miles, this would be the way to do it.
 
 **NOTES**
 - Has been investigating Benevolence Corp with limited success.
 
- **[Main Menu](../README.md)**
+ **[Main Menu](README.md)**

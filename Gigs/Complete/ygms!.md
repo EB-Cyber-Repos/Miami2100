@@ -11,4 +11,4 @@ Driver says you did a great job killing all the people and not-people that got i
 
 Don't worry, Driver said he's gonna be recommending you guys to his friends for future gigs since you did just a good job! So there will be lots of opportunities for you guys to be mauled by gay frogsquatches in the future. 
  
- **[Main Menu](../../README.md)**
+ **[Main Menu](README.md)**
