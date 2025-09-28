@@ -1,5 +1,5 @@
 **NAME:** Savika
-**BITZ:** 5,700b
+**BITZ:** 17,700b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -23,16 +23,16 @@
 - You can spend a Fate point, to deploy knuckle and elbow vibro-blades. 
 
 **EXTRAS**
-- Assault Rifle
 - MedKit
+- Batvision Goggles - Googles that provide echolocation-based vision for all of your Daredevil larping needs.
+
+**STASH**
+- Combat Armor (4)
+- Assault Rifle
 - Stem-Stim
 - Bazooka
 - Kevlar Vest (2)
 - H.I.V.E - A swarm of AI-controlled nanites in a conveniently grenade-sized package. Just give them verbal instructions and let'r rip.
-- Batvision Goggles - Googles that provide echolation-based vision for all of your Daredevil larping needs.
-
-**STASH**
-- Combat Armor (4)
 
 **NOTES**
 - Had to help their mother Eve get rid of a corpse (again).

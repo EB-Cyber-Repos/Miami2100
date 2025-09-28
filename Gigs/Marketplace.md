@@ -4,6 +4,9 @@ Your one stop shop for anything a lancer may need
 ![Welcome](../assets/images/a1kzqYo.jpeg)
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
+- Mask Ring - 5,000b - A seemingly simple clasp-ring that can go on a ear, nose, or lip. It scrambles the wearers face and voice in any piece of digital recording media.
+- Cryo Grenade - 500b - A grenade that expels a cloud of hyper-cooled liquid nitrogen in an area around, great for bomb defusing or flash-freezing a gaggle of dickheads.
+- Purple Lotus Powder - 1,000b - Snorting this stuff is supposed to open up your third eye, personally I think it probably just gives you spooky hallucinations. Customer mileage may vary, no refunds.
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 

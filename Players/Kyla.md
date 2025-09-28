@@ -1,5 +1,5 @@
 **NAME:** Jojo
-**BITZ:** 7,750b
+**BITZ:** 19,000b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -23,14 +23,17 @@
 - You get +2 to aim rolls when you have time to call your shot.
 
 **EXTRAS**
-- Katana
-- Kevlar Vest ("If you shoot me, you're GAY!")
-- Scramble Grenade 
 - MedKit
-- Bozo Holo-Drone
-- Plasma Rifle 
 - Amber Alert - This grenade is actually an all-bands alarm system for every government and corpo frequency within radius. If you ever wanted to send out the batsignal for every uniform for several miles, this would be the way to do it.
 - Rust Spray - A pepper spray canister that fires a stream of oxidizing acid, melts any metal it touches. Keep it away from your borg parts.
+- Smart Shades 
+
+**Stash**
+- Katana
+- Kevlar Vest ("If you shoot me, you're GAY!", 2)
+- Scramble Grenade 
+- Bozo Holo-Drone
+- Plasma Rifle 
 
 **NOTES**
 - Has been investigating Benevolence Corp with limited success.

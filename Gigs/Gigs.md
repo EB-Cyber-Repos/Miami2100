@@ -3,12 +3,7 @@ It's dirty work, but somebody has got to do it.
 
 ![Welcome](../assets/images/8vRNqUU.gif)
  
- **[Don't forget to buy any gear you need](Marketplace.md)**
- 
-## 3 cheers for animal rights!
-**Infiltration**
-**60,000b**
-Remember PETA from back in the day? Turns out getting us all to eat factory grown meat wasn't enough, now they're fighting for the rights of bio-engineered animals. That's why some treehugger hacker named TH3S35S is willing to pay a pretty penny for you to break in to a BVT synth-meat factory, and jailbreak the mutant cattle they've got caged up. I'm sure nothing could go wrong!
+ **[Don't forget to buy any gear you need](Marketplace.md)** 
 
 ## It's 8pm, do you know where your kids are?
 **Investigation**
@@ -26,5 +21,6 @@ I think he's an idiot, but that won't stop me from taking his money. Just keep h
 It's dirty work, but somebody has got to do it. 
 - [Get your feet wet...](Complete/getyfw.md)
 - [YOU GOT ME SHOT](Complete/ygms!.md)
+- [3 cheers for animal rights!](Complete/3cheers.md)
 
  **[Main Menu](../README.md)**

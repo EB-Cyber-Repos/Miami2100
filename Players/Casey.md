@@ -1,5 +1,5 @@
 **NAME:** Canuck
-**BITZ:** -2,564b
+**BITZ:** 9,436b
 **REFRESH:** 3
 **STRESS:** 5
 
@@ -12,10 +12,10 @@
 - Nervous System Stimulant Implant
 
 **SKILLS**
-- +4: ESP
-- +3: Persuasion, Occult
-- +2: Aim, Deception, Medicine
-- +1: Agility, Drive, Engineering, Performance
+- +4: Aim
+- +3: Persuasion, ESP
+- +2: Occult, Deception, Medicine
+- +1: Agility, Drive, Engineering, Melee
 
 **STUNTS**
 - Once a session, you can spend a Fate point to know a relevant contact.
@@ -24,22 +24,20 @@
 
 **EXTRAS**
 - Medkit 
+- PlasmaSaber - The legally distinct Lightsaber, for all your slicing and dicing needs. Robes optional.
+- Shotgun 
+
+**Stash**
+- DNA Bomb 
+- Medkit 
+- Sledgehammer
 - Timothy's Salad
-- (Half of a) 12 Pack Beer
-- Shotgun
 - Kevlar Vest (Oilers logo, under a denim duster)
 - Grappling Gun 
 - Flash Bang 
 - Frag Grenade
 - Scramble Grenade 
 - C9 Bomb 
-- PlasmaSaber - The legally distinct Lightsaber, for all your slicing and dicing needs. Robes optional.
-
-**Stash**
-- DNA Bomb 
-- Medkit 
-- Sledgehammer
-
 
 **NOTES**
 - Has been investigating sightings of the "Purple Man" digital cryptid.

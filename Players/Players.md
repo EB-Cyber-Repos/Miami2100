@@ -1,3 +1,11 @@
+## Usernames
+- [Casey](Casey.md)
+- [Heather](Heather.md)
+- [Kyla](Kyla.md)
+- [Peter](Peter.md)
+- [Ryo](Ryo.md)
+
+![welcome](../assets/images/swHnDrH.gif)
 # Freelancers
 The street-level mercenaries of the 2100's, doing all the dirty work that the corpos, gangs, and plebs can't do themselves. The pay is great, the life expectancy isn't. 
 - **Fixers** gab with clients and set up jobs. Some are masterminds who hand pick teams that execute their game plan, others are middlemen with a black book full of contacts. 
@@ -9,14 +17,6 @@ The street-level mercenaries of the 2100's, doing all the dirty work that the co
 - **Solos** know that violence is in fact the answer, and that answer should be direct and emphatic. Whether it's a bodyguard, a soldier, an assassin, or an enforcer, the one thing they all share is an expertise in the purest form of conflict resolution.
 - **Psikos** have been touched by the weird that's been leaking into the world from The Hot Zone. People used to think they were crazy when all they could do was hear voices and see ghosts, then some psikos started blowing people up with their brains. That's when everyone *knew* they were crazy.
 - **Techies** make the all the machines that surround us go bang, beep, and/or vroom. If it has moving parts or an electric current then a techie can mend it (or break it). 
-
-![welcome](../assets/images/swHnDrH.gif)
-## Usernames
-- [Casey](Casey.md)
-- [Heather](Heather.md)
-- [Kyla](Kyla.md)
-- [Peter](Peter.md)
-- [Ryo](Ryo.md)
 
 ![Welcome](../assets/images/Pd1Ny1h.jpeg)
 

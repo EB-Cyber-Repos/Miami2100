@@ -1,5 +1,5 @@
 **NAME:** Brick
-**BITZ:** -18,400b
+**BITZ:** - 6,400b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -25,13 +25,11 @@
 **EXTRAS**
 - Rail Gun
 - Kevlar Vest
-- Medkit
-- Flash Bang (x2)
 - SIghtShare Shades 
 - Suppressed Pistol
 - Predator Ring - A twist of the ring, and you disappear like the extraterrestrial antagonist of a 1980's action vid. It's not quite invisible, but it's pretty fucking close.
 
-**Stash**
+**STASH**
 - Rifle
 
 **NOTES**
