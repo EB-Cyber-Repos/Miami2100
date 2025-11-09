@@ -1,3 +1,4 @@
+![Welcome](../assets/images/Savika.jpg)
 **NAME:** Savika
 **BITZ:** 17,700b
 **REFRESH:** 3

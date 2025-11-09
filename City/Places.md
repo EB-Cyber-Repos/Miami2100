@@ -19,6 +19,6 @@ The Arkham district sits on the northernmost tip of Miami, right on the bleeding
 - **The Ocean** Maritime law and  nautical transport are two of the few aspects of life that the corpos don't have a complete stranglehold over, leading to a marked rise in professional piracy among those with a more rebellious leaning. Hoist the sails, matey!
 - **The Red** The Red is the ruins of old North America, torn up and tainted by a still not-quite-explained volcanic catastrophe from decades ago. Now smugglers make a living looting what they can and selling it back to the civilised world, assuming they survive the nomads, mutants, and whatever other lethal weirdness The Red can spit out.
 
-![Welcome](GM/Miami%202100/Website/assets/images/kEd1WZh.jpeg)
+![Welcome](../assets/images/kEd1WZh.jpeg)
 
  **[Main Menu](../README.md)**

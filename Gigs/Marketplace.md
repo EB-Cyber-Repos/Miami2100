@@ -5,8 +5,10 @@ Your one stop shop for anything a lancer may need
 ## Black Market Deals
 This is the exclusive merchandise, rare items here for a limited time. Once someone buys it, it's gone:
 - Mask Ring - 5,000b - A seemingly simple clasp-ring that can go on a ear, nose, or lip. It scrambles the wearers face and voice in any piece of digital recording media.
-- Cryo Grenade - 500b - A grenade that expels a cloud of hyper-cooled liquid nitrogen in an area around, great for bomb defusing or flash-freezing a gaggle of dickheads.
+- Cryo Grenade - 500b - A grenade that expels a cloud of hyper-cooled liquid nitrogen in a couple meter radius, great for bomb defusing or flash-freezing a gaggle of dickheads.
 - Purple Lotus Powder - 1,000b - Snorting this stuff is supposed to open up your third eye, personally I think it probably just gives you spooky hallucinations. Customer mileage may vary, no refunds.
+- Bug Coin - 500b - A coin sized spy device capable of transmitting video, audio, and geo-location data.
+- Funeral Pill - 1,000b - This pill contains a combination of chemicals and nanites that put the consumer into a coma remarkably similar to death for 24 hours. Perfect for publicly faking your own demise, hence the name.
 
 ## Weapons
 - Melee Weapons - 250b - (Swords, Hammers, Bats) 
