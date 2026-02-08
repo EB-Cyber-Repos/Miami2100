@@ -1,5 +1,5 @@
 **NAME:** Brick
-**BITZ:** - 6,400b
+**BITZ:** - 7,900b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -7,8 +7,8 @@
 **TROUBLE:** Has a score to settle
 
 **ASPECTS** 
-- Had a taste of the good life
-- I take out the trash
+- Had a taste of the good life (Injured, shot in the legs )
+- I take out the trash (Injured, Shot in the chest)
 - Cyber Heart
 
 **SKILLS**
@@ -27,7 +27,7 @@
 - Kevlar Vest
 - SIghtShare Shades 
 - Suppressed Pistol
-- Predator Ring - A twist of the ring, and you disappear like the extraterrestrial antagonist of a 1980's action vid. It's not quite invisible, but it's pretty fucking close.
+- Cryo Grenade - A grenade that expels a cloud of hyper-cooled liquid nitrogen in a couple meter radius, great for bomb defusing or flash-freezing a gaggle of dickheads.
 
 **STASH**
 - Rifle

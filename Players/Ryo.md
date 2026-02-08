@@ -6,7 +6,7 @@
 **STRESS:** 6
 
 **CONCEPT:** Tough as Nails Klep
-**TROUBLE:** Will do anything for their family
+**TROUBLE:** Haunted by her dead mother
 
 **ASPECTS** 
 - Cyborg Arms

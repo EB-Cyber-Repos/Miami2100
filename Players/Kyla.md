@@ -1,5 +1,5 @@
 **NAME:** Jojo
-**BITZ:** 19,000b
+**BITZ:** 12,500b
 **REFRESH:** 3
 **STRESS:** 6
 
@@ -15,7 +15,7 @@
 - +4: Persuasion
 - +3: Deception, Academics
 - +2: Brawl, Perception, Security
-- +1: Melee, Occult, Performance, Strength
+- +1: Melee, Occult, Aim, Strength
 
 **STUNTS**
 - Whenever you deal social damage, increase it by 1.
@@ -27,13 +27,14 @@
 - Amber Alert - This grenade is actually an all-bands alarm system for every government and corpo frequency within radius. If you ever wanted to send out the batsignal for every uniform for several miles, this would be the way to do it.
 - Rust Spray - A pepper spray canister that fires a stream of oxidizing acid, melts any metal it touches. Keep it away from your borg parts.
 - Smart Shades 
-
-**Stash**
+- Mask Ring - A seemingly simple clasp-ring that can go on a ear, nose, or lip. It scrambles the wearers face and voice in any piece of digital recording media.
 - Katana
 - Kevlar Vest ("If you shoot me, you're GAY!", 2)
 - Scramble Grenade 
 - Bozo Holo-Drone
 - Plasma Rifle 
+
+**Stash**
 
 **NOTES**
 - Has been investigating Benevolence Corp with limited success.
